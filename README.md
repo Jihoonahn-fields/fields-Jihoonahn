@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi EveryOne!
 
-<!--
-**FieldS-JiHoonAHN/FieldS-JiHoonAHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```swift
+import Foundation
 
-Here are some ideas to get you started:
+struct Profile {
+   let name: string
+   var age: Int
+   let job: String
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+let jihoonAHN = Profile(name: "JiHoonAHN",
+                        age: 20,
+                        job: "iOS Developer")
+print(jihoonAHN)
+```
+
