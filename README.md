@@ -1,5 +1,3 @@
-## Hi EveryOne!
-
 ```swift
 import Foundation
 
